@@ -1,1 +1,28 @@
-[{"nome":"iago","idade":28},{"nome":"vanuza","idade":53},{"nome":"lorena","idade":28},{"nome":"bia","idade":25}]
+[
+    {
+        "nome": "Iago",
+        "email": "email",
+        "cpf": "numero cpf",
+        "profissao": "dev",
+        "endereco": {
+            "cep": "12345678",
+            "rua": "rua",
+            "complemento": "complemento",
+            "bairro": "bairro",
+            "cidade": "cidade"
+        }
+    },
+    {
+        "nome": "Bia",
+        "email": "email",
+        "cpf": "cpf numero",
+        "profissao": "dev",
+        "endereco": {
+            "cep": "12345678",
+            "rua": "rua",
+            "complemento": "complemento",
+            "bairro": "bairro",
+            "cidade": "cidade"
+        }
+    }
+]

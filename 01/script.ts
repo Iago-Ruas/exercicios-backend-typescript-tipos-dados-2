@@ -25,8 +25,3 @@ const writeFile = (text: string): void => {
         console.error(error);
     }
 };
-
-const txt: string = `[{"nome":"iago", "idade":28 },{"nome":"vanuza", "idade":53 },{"nome":"lorena", "idade":28 },{"nome":"bia", "idade":25 }]`;
-
-writeFile(txt);
-console.log(readFile("../bd.json"));
